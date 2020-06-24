@@ -2,14 +2,14 @@
 9th June 2020
 
 ### Project Title
-Git project
+Bikeshare analysis using python
 
 ### Description
-It includes udacity nanodegree programming for datascience assignment file
+In this project, I will make use of Python to analyse data of bike sharing systems for three major cities in the United States—Chicago, New York City, and Washington.
 
 ### Files used
-bikeshare.py
+chicago.csv, new york city.csv and washington.csv
 
 ### Credits
-Credits to the teacher . This course was made so so so easy by him. Thanks sir.
+Credits: Udacity 
 

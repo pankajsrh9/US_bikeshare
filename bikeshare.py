@@ -1,7 +1,12 @@
 import time
 import pandas as pd
 import numpy as np
+<<<<<<< HEAD
 # Adding comments according to the 3rd part of assignment
+||||||| 005d33a
+=======
+#4th part of assignment change i.e. refactoring
+>>>>>>> 757de7fd2938cfba41c82606218ee5e7a2116f4d
 
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
